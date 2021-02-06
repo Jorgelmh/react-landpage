@@ -1,0 +1,19 @@
+.main-features{
+    position: relative;
+    background-color: rgb(224, 253, 251);
+    box-shadow: -1px 6px 15px -9px rgba(69,235,247,1);
+}
+
+.main-features svg{
+    position: absolute;
+    bottom: 100%;
+}
+
+.site-features{
+    padding-bottom: 30px;
+}
+
+.site-features h2{
+    text-align: center;
+    padding: 30px;
+}

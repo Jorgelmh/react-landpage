@@ -1,0 +1,39 @@
+footer{
+    margin-top: 30px;
+    position: relative;
+    
+}
+
+@media(min-width: 768px){
+    footer{
+        margin-top: 9rem;
+    }
+}
+.site-footer{
+    background: linear-gradient(180deg, rgba(254,108,248,1) 1%, rgba(151,243,254,1) 100%);
+    padding-bottom: 20px;
+}
+
+.site-footer .container{
+    text-align: center;
+}
+
+footer svg{
+    position: absolute;
+    bottom: 100%;
+}
+
+.logo-name div{
+    justify-content: center;
+}
+
+@media(min-width: 768px){
+    .links-info{
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+.footer-info, #copyright-zone{
+    font-size: 1.3em;
+}

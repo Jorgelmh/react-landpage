@@ -1,0 +1,32 @@
+.single-feature{
+    margin: 20px;
+    padding: 20px;
+}
+
+.feature-img img{
+    width: 100%;
+    max-height: 300px;
+}
+
+.feature-text{
+    padding: 40px;
+}
+
+@media(min-width: 768px){
+
+    .feature-img{
+        width: 60%;
+    }
+
+    .single-feature{
+        display: flex;
+        justify-content: space-evenly;
+        padding: 70px 0;
+    }
+
+    .feature-text{
+        width: 45%;
+        padding: 0 4%;
+    }
+}
+

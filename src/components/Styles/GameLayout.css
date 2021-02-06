@@ -1,0 +1,52 @@
+.single-game img{
+    width: 100%;
+    max-width: 150px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15%;
+}
+
+.single-game{
+    padding: 10px;
+    margin: 10px;
+    box-shadow: -1px 0px 11px -3px rgba(0,0,0,0.63);
+    border-radius: 7px;
+    background-color: white;
+}
+
+.single-game h3{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 1.5rem;
+}
+
+.single-game p{
+    margin: 5px 0;
+}
+
+.single-game .mini-likes-comments{
+    display: flex;
+    justify-content: space-between;
+}
+
+.game-info a{
+    text-decoration: none;
+    color: black;
+}
+
+.mini-likes-comments{
+    font-size: 1.1rem;
+}
+
+.mini-likes-comments .heart-color{
+    color: #dd0a50;
+}
+
+.mini-likes-comments .comment-color{
+    color: burlywood;
+}
+
+.gameLayout-username{
+    font-size: 1.3rem;
+    margin: 15px 0;
+}

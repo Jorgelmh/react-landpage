@@ -1,0 +1,19 @@
+.form-button{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all .5s ease-in-out;
+    border: none;
+    color: black;
+    background-color: white;
+    display: block;
+    margin: 40px auto;
+}
+
+button.form-button:hover{
+    -webkit-transform: scale(1.1);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}

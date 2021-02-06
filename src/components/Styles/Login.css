@@ -1,0 +1,59 @@
+.site-login{
+    margin: 0 auto;
+    max-width: 450px;
+    padding: 20px;
+    background: linear-gradient(121deg, rgba(106,124,255,1) 0%, rgba(231,169,255,1) 100%);
+    border-radius: 10px;
+}
+
+@media(min-width: 450px){
+    .site-login{
+        margin-top: 8%;
+
+    }
+}
+
+.login-letter{
+    margin: 10px;
+    padding: 20px;
+}
+
+.login-letter img{
+    display: block;
+    margin: 0 auto;
+    max-width: 200px;
+}
+
+.login-letter h1{
+    margin-top: 0;
+    text-align: center;
+}
+
+.login-form .campo{
+    margin: 40px 20px;
+}
+
+.login-form .campo:first-of-type{
+    margin: 20px;
+}
+
+.login-form .campo input{
+    width: 100%;
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1.3px solid white;
+}
+
+.login-form .campo input::placeholder{
+    color: white;
+}
+
+.login-form .campo input:focus{
+    outline: none;
+    border-bottom: 2px solid white;
+}
+
+
+
+

@@ -1,0 +1,63 @@
+.logo-and-name{
+    display: flex;
+    align-items: center;
+}
+
+.logo-and-name img{
+    width: 80px;
+}
+
+.references-var{
+    margin: auto;
+    max-width: 1400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-header{
+    background-image: url('../Images/waveResponsive.svg');
+    background-size: cover;
+    background-position: center center;
+    padding: 0 10px;
+    height: 50vh;
+}
+
+.header-text{
+  text-align: center;
+  color: white;
+  margin-top: 2.5%;
+}
+
+.videogame-image-header img{
+    display: none;
+}
+
+@media(min-width: 768px){
+    .videogame-image-header img{
+        display: block;
+        max-width: 500px;
+        width: 60%;
+        margin-left: auto;
+    }
+
+    .header-text{
+        float: left;
+        max-width: 40%;
+        text-align: left;
+    }
+
+    .site-header{
+        padding-bottom: 60px;
+        height: 700px;
+        background-image: url('../Images/wave5.svg');
+    }
+}
+
+.logo-and-name h2{
+    font-size: 2.3em;
+    color: aliceblue;
+}
+
+
+

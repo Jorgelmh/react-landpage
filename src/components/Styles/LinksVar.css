@@ -1,0 +1,43 @@
+@import "https://use.fontawesome.com/releases/v5.8.1/css/all.css";
+
+nav.nav-references{
+    display: none;
+}
+
+button.burger-button{
+    width: 30px;
+    background-color: transparent;
+    padding: 0;
+    border: none;
+    font-size: 50px;
+    cursor: pointer;
+    color: white;
+    transition: all .5s ease-in-out;
+    margin: 20px;
+}
+
+button.burger-bottom:hover{
+    -webkit-transform: scale(1.05);
+}
+
+.nav-references p{
+    margin: 0;
+    padding: 5px;
+}
+
+@media(min-width: 768px){
+
+    button.burger-button{
+        display: none;
+    }
+
+    nav.nav-references{
+        display: flex!important;
+    }
+
+    .nav-references p{
+        padding: 15px;
+    }
+}
+
+
