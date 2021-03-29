@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-landpage/static/css/main.846c6b51.chunk.css",
-    "main.js": "/react-landpage/static/js/main.e2cea483.chunk.js",
-    "main.js.map": "/react-landpage/static/js/main.e2cea483.chunk.js.map",
+    "main.css": "/react-landpage/static/css/main.de7efbd2.chunk.css",
+    "main.js": "/react-landpage/static/js/main.fe587ecf.chunk.js",
+    "main.js.map": "/react-landpage/static/js/main.fe587ecf.chunk.js.map",
     "runtime-main.js": "/react-landpage/static/js/runtime-main.3fa4bf21.js",
     "runtime-main.js.map": "/react-landpage/static/js/runtime-main.3fa4bf21.js.map",
     "static/css/2.c0ed2ef8.chunk.css": "/react-landpage/static/css/2.c0ed2ef8.chunk.css",
@@ -12,22 +12,22 @@
     "static/js/3.4676608b.chunk.js.map": "/react-landpage/static/js/3.4676608b.chunk.js.map",
     "index.html": "/react-landpage/index.html",
     "static/css/2.c0ed2ef8.chunk.css.map": "/react-landpage/static/css/2.c0ed2ef8.chunk.css.map",
-    "static/css/main.846c6b51.chunk.css.map": "/react-landpage/static/css/main.846c6b51.chunk.css.map",
+    "static/css/main.de7efbd2.chunk.css.map": "/react-landpage/static/css/main.de7efbd2.chunk.css.map",
     "static/js/2.ec69ec15.chunk.js.LICENSE.txt": "/react-landpage/static/js/2.ec69ec15.chunk.js.LICENSE.txt",
     "static/media/Wallpaper.69ef91a0.png": "/react-landpage/static/media/Wallpaper.69ef91a0.png",
     "static/media/coding_.d1ed4824.svg": "/react-landpage/static/media/coding_.d1ed4824.svg",
-    "static/media/files_and_folder.819076f9.svg": "/react-landpage/static/media/files_and_folder.819076f9.svg",
+    "static/media/files_and_folder.39921006.svg": "/react-landpage/static/media/files_and_folder.39921006.svg",
     "static/media/network_.45090b93.svg": "/react-landpage/static/media/network_.45090b93.svg",
     "static/media/undraw_app_installation.8854cbe8.svg": "/react-landpage/static/media/undraw_app_installation.8854cbe8.svg",
     "static/media/undraw_progressive_app.75fcf155.svg": "/react-landpage/static/media/undraw_progressive_app.75fcf155.svg",
     "static/media/undraw_uploading.38d4dd8c.svg": "/react-landpage/static/media/undraw_uploading.38d4dd8c.svg",
-    "static/media/Header.css": "/react-landpage/static/media/waveResponsive.c1169912.svg"
+    "static/media/Header.css": "/react-landpage/static/media/waveResponsive.20ecd630.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3fa4bf21.js",
     "static/css/2.c0ed2ef8.chunk.css",
     "static/js/2.ec69ec15.chunk.js",
-    "static/css/main.846c6b51.chunk.css",
-    "static/js/main.e2cea483.chunk.js"
+    "static/css/main.de7efbd2.chunk.css",
+    "static/js/main.fe587ecf.chunk.js"
   ]
 }
