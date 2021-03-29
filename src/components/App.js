@@ -6,7 +6,7 @@ import LandingPageLogged from './Example'
 import Login from '../Pages/Login'
 
 const App = () => (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
             <Route exact path="/" component={withAuth(LandingPageLogged, LandingPageUnlogged)}/>    
             <Route exact path="/login" component={withAuth(LandingPageLogged, Login)}/>      
